@@ -1,0 +1,285 @@
+@media (max-width: 1190px) {
+  .grow-text h1 {
+    font-size: 60px;
+  }
+  .blocs-box p {
+    width: 290px;
+  }
+  .free-box {
+    width: 310px;
+  }
+}
+
+@media (max-width: 1110px) {
+  .free-box {
+    width: 295px;
+  }
+  .free-box button {
+    width: 250px;
+  }
+}
+
+@media (max-width: 1050px) {
+  .free-box {
+    width: 280px;
+  }
+  .free-box button {
+    width: 230px;
+    height: 55px;
+  }
+  .blocs-box p {
+    width: 260px;
+  }
+  .get h1 {
+    font-size: 50px;
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 1000px) {
+  .free-box {
+    width: 250px;
+    height: 400px;
+  }
+  .free-box h1 {
+    font-size: 55px;
+  }
+  .free-box p {
+    font-size: 15px;
+    line-height: 60px;
+  }
+}
+
+@media (max-width: 950px) {
+  .subscription-text h1 {
+    font-size: 40px;
+  }
+  .metrics-text h1 {
+    font-size: 45px;
+    font-weight: 700;
+  }
+  .blocs-box p {
+    width: 250px;
+  }
+  .get h1 {
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .grow-text h1 {
+    font-size: 50px;
+  }
+  .grow-text p {
+    width: 325px;
+  }
+}
+@media (max-width: 900px) {
+  .subscription-text h1 {
+    font-size: 30px;
+  }
+  .subscription-text p {
+    width: 315px;
+  }
+  .metrics-text h1 {
+    font-size: 35px;
+  }
+  .metrics-text p {
+    width: 300px;
+  }
+  .blocs-box p {
+    width: 190px;
+  }
+  .get-bt button:nth-child(2) {
+    width: 130px;
+    height: 50px;
+  }
+  .get-bt button:first-child {
+    width: 130px;
+    height: 50px;
+  }
+  .get h1 {
+    font-size: 35px;
+  }
+  .free-box {
+    width: 225px;
+    height: 360px;
+  }
+  .free-box p {
+    font-size: 15px;
+    line-height: 50px;
+  }
+  .free-box button {
+    width: 190px;
+    height: 50px;
+  }
+  .grow-text h1 {
+    font-size: 40px;
+  }
+  .grow-text p {
+    width: 265px;
+  }
+  .btn button {
+    width: 170px;
+    height: 55px;
+  }
+  .btn {
+    gap: 30px;
+  }
+}
+@media (max-width: 830px) {
+  .free-box h5 {
+    font-size: 16px;
+  }
+  .free-box h1 {
+    font-size: 45px;
+  }
+  .free-box p {
+    line-height: 40px;
+  }
+  .free-box button {
+    width: 155px;
+    height: 45px;
+  }
+  .free-box {
+    width: 200px;
+    height: 325px;
+  }
+
+  .header button {
+    width: 125px;
+    height: 45px;
+    border-radius: 4px;
+  }
+  .header-logo img {
+    max-width: 180px;
+  }
+}
+
+@media (max-width: 800px) {
+  .metrics2 {
+    max-width: 175px;
+  }
+  .metrics1 {
+    left: -120px;
+    max-width: 285px;
+  }
+  .subscription-img img {
+    max-width: 120px;
+  }
+  .im2 {
+    max-width: 300px;
+  }
+  .im1 {
+    position: absolute;
+    left: -85px;
+    top: -83px;
+    max-width: 395px;
+  }
+  .im3 {
+    position: absolute;
+    right: -34px;
+    bottom: -125px;
+    max-width: 160px;
+  }
+  .logo img {
+    max-width: 80px;
+  }
+  .blocs-box img {
+    max-width: 90px;
+  }
+  .blocs-box h1 {
+    font-size: 22px;
+  }
+  .blocs-box p {
+    padding-block: 10px;
+  }
+}
+
+@media (max-width: 730px) {
+  .header button {
+    width: 100px;
+    height: 35px;
+    border-radius: 6px;
+  }
+  .header-logo img {
+    max-width: 155px;
+  }
+  .get-bt button:nth-child(2) {
+    width: 110px;
+    height: 45px;
+  }
+  .get-bt button:first-child {
+    width: 110px;
+    height: 45px;
+  }
+  .get-bt button {
+    font-size: 14px;
+  }
+  .free-box {
+    width: 180px;
+    height: 280px;
+  }
+  .free-box h5 {
+    line-height: 55px;
+  }
+  .free-box h1 {
+    font-size: 30px;
+    line-height: 55px;
+  }
+  .free-box p {
+    line-height: 40px;
+  }
+  .free-box button {
+    width: 145px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 700px) {
+  .blocs-box p {
+    width: 170px;
+  }
+  .header ion-icon {
+    display: flex;
+  }
+  .header a {
+    display: none;
+  }
+  .header-btn {
+    display: none;
+  }
+
+  .grow-img {
+    margin: 200px;
+  }
+
+  .grow {
+    flex-direction: column-reverse;
+  }
+  .logo img {
+    max-width: 55px;
+  }
+  .subscription {
+    flex-direction: column;
+  }
+  .metrics {
+    flex-direction: column-reverse;
+  }
+  .metrics2 {
+    padding-block: 75px;
+  }
+  .benchmarks-blocs {
+    flex-direction: column;
+    gap: 55px;
+  }
+  .get {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .free {
+    flex-direction: column;
+    gap: 35px;
+  }
+}
+@media (max-width: 830px) {
+}
